@@ -1,0 +1,26 @@
+{
+    "name": "tokiya/laraflash",
+    "description": "Simple flash message for Laravel.",
+    "type": "library",
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^8.0|^9.0|^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tokiya\\Laraflash\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "tokiya-takai",
+            "email": "iamtokiyatakai@gmail.com"
+        }
+    ]
+}
