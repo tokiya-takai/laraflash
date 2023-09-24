@@ -2,7 +2,7 @@
     "name": "tokiya/laraflash",
     "description": "Simple flash message for Laravel.",
     "type": "library",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "minimum-stability": "dev",
     "require": {
         "php": "^8.0",
